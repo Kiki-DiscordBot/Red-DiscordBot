@@ -1,3 +1,14 @@
+# Outdated!
+**No support will be given if you decided to be a smartass with this fork >:(**
+
+The new source code has been moved to a private repository now, take an L ig :p
+
+And no you don't get to ask to give the source code for you, unless I want to ig? 🤷‍♂️
+
+
+
+---
+
 <h1 align="center">
   <br>
   <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
