@@ -3,9 +3,7 @@
 
 The new source code has been moved to a private repository now, take an L ig :p
 
-And no you don't get to ask to give the source code for you, unless I want to ig? 🤷‍♂️
-
-
+Well, ig you can see it if you have permission ¯\\\_(ツ)\_/¯ else think how to modify Red's official source code yourself, ehe :)
 
 ---
 
